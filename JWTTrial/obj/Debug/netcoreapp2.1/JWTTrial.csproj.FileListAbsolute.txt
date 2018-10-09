@@ -1,0 +1,14 @@
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\bin\Debug\netcoreapp2.1\JWTTrial.deps.json
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\bin\Debug\netcoreapp2.1\JWTTrial.runtimeconfig.json
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\bin\Debug\netcoreapp2.1\JWTTrial.runtimeconfig.dev.json
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\bin\Debug\netcoreapp2.1\JWTTrial.dll
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.csprojAssemblyReference.cache
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.csproj.CoreCompileInputs.cache
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.RazorAssemblyInfo.cache
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.RazorAssemblyInfo.cs
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.AssemblyInfoInputs.cache
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.AssemblyInfo.cs
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.RazorTargetAssemblyInfo.cache
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\bin\Debug\netcoreapp2.1\JWTTrial.pdb
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.dll
+C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.pdb
