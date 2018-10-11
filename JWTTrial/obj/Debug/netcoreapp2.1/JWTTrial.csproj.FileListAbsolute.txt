@@ -12,3 +12,17 @@ C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\obj\Debug\netcoreapp2.1\JWTTr
 C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\bin\Debug\netcoreapp2.1\JWTTrial.pdb
 C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.dll
 C:\Users\Closerlook\source\repos\JWTTrial\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.pdb
+Z:\My Public GIT\JWT\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.csprojAssemblyReference.cache
+Z:\My Public GIT\JWT\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.csproj.CoreCompileInputs.cache
+Z:\My Public GIT\JWT\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.RazorAssemblyInfo.cache
+Z:\My Public GIT\JWT\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.RazorAssemblyInfo.cs
+Z:\My Public GIT\JWT\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.AssemblyInfoInputs.cache
+Z:\My Public GIT\JWT\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.AssemblyInfo.cs
+Z:\My Public GIT\JWT\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.dll
+Z:\My Public GIT\JWT\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.pdb
+Z:\My Public GIT\JWT\JWTTrial\bin\Debug\netcoreapp2.1\JWTTrial.deps.json
+Z:\My Public GIT\JWT\JWTTrial\bin\Debug\netcoreapp2.1\JWTTrial.runtimeconfig.json
+Z:\My Public GIT\JWT\JWTTrial\bin\Debug\netcoreapp2.1\JWTTrial.runtimeconfig.dev.json
+Z:\My Public GIT\JWT\JWTTrial\bin\Debug\netcoreapp2.1\JWTTrial.dll
+Z:\My Public GIT\JWT\JWTTrial\bin\Debug\netcoreapp2.1\JWTTrial.pdb
+Z:\My Public GIT\JWT\JWTTrial\obj\Debug\netcoreapp2.1\JWTTrial.RazorTargetAssemblyInfo.cache
